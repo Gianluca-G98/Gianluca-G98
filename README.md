@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gianluca Gragnaniello</h1>
 <h3 align="center">A passionate Deep Learning researcher from Italy</h3>
 
- I'm a researcher in applied Machine Learning for biomedical imaging at Policlinico Universitario Agostino Gemelli (Rome)
+ I'm a Deep Learning researcher for biomedical imaging at Policlinico Universitario Agostino Gemelli (Rome)
 
 - 🔭 I published a paper on [**"Targeted therapy and deep learning insights into microglia modulation for spinal cord injury"**](https://www.sciencedirect.com/science/article/pii/S2590006424001765)
 
